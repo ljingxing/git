@@ -2,11 +2,13 @@
 * @Author: Marte
 * @Date:   2017-08-25 19:53:30
 * @Last Modified by:   Marte
-* @Last Modified time: 2017-08-25 20:18:50
+* @Last Modified time: 2017-08-26 09:33:52
 */
 
 div{
     height:100px;
     width:100px;
     background-color:pink;
+    font-size: 14px;
+    border: 1px solid black;
 }

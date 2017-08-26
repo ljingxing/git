@@ -2,11 +2,12 @@
 * @Author: Marte
 * @Date:   2017-08-25 19:53:30
 * @Last Modified by:   Marte
-* @Last Modified time: 2017-08-25 20:18:50
+* @Last Modified time: 2017-08-26 09:09:36
 */
 
 div{
     height:100px;
     width:100px;
     background-color:pink;
+    border:3px solid black;
 }
